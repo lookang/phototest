@@ -1,1 +1,1 @@
-include: _ejs_library
+include: [_ejs_library]
